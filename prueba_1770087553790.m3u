@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal 1" tvg-logo="https://www.vhv.rs/dpng/d/479-4790210_canal-uno-colombia-hd-canal-1-colombia-logo.png" group-title="Noticias",Canal 1
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+#EXTINF:-1 tvg-id="UltraCasanare" tvg-logo="https://ultracasanare.com.co/wp-content/uploads/2024/08/color-2048x1229.png" group-title="Noticias",UltraCasanare
+https://eu1.servers10.com:8081/8072/index.m3u8
+#EXTINF:-1 tvg-id="SURAMTV" tvg-logo="https://vive.com.co:8443/Content/pdfs/logocanales/suramtv.png" group-title="Musica",SURAMTV
+http://170.244.209.135:8000/play/a0cz/index.m3u8
+#EXTINF:-1 tvg-id="La Kalle" tvg-logo="https://images.seeklogo.com/logo-png/32/1/la-kalle-la-mandamas-logo-png_seeklogo-322671.png" group-title="Musica",La Kalle
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
+#EXTINF:-1 tvg-id="MCI Television" tvg-logo="https://canalmci.com.co/sitepad-data/uploads/2025/08/1725913544925-1.png" group-title="Peliculas",MCI Television
+https://video.ejeserver.com/live/mcitelevision.m3u8
+#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo-650x366.png" group-title="Comedia",Comedy Central
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280717-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=970b3112-4df5-46fc-83e4-cefce01e5024
+#EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://images.seeklogo.com/logo-png/33/1/telemundo-logo-png_seeklogo-335344.png" group-title="Noticias",Telemundo
+http://104.238.205.28:9090/278661_.m3u8
+#EXTINF:-1 tvg-id="The Walking Dead en Español" tvg-logo="https://logos-world.net/wp-content/uploads/2024/09/The-Walking-Dead-Logo-500x281.png" group-title="Series",The Walking Dead en Español
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e82bb378601b80007b4bd78&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=925&terminate=false&userId=
+#EXTINF:-1 tvg-id="FX" tvg-logo="https://images.seeklogo.com/logo-png/5/1/fx-network-logo-png_seeklogo-58585.png" group-title="Series",FX
+http://38.199.6.1:17001/play/a04u/index.m3u8
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://images.seeklogo.com/logo-png/25/1/new-disney-channel-logo-png_seeklogo-255285.png" group-title="Animacion",Disney Channel
+http://201.230.121.186:8000/play/a0fb/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://images.seeklogo.com/logo-png/9/1/nickelodeon-logo-png_seeklogo-99315.png" group-title="Animacion",Nickelodeon
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
